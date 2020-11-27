@@ -1,8 +1,8 @@
 # Tor-factory
 # Lab 1
-The Lab was about .... 
+The Lab was about NTHIERRY
 ## Report
-  - [Report 1](report/1) 
+  - [Exo1](report/1) 
   - [Report 2](report/2)
   
 ## Exercises
